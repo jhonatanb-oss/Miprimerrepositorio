@@ -10,7 +10,7 @@ labels: bug
 
 assignees: ""
 
----x
+---
 
 ## 🐛 Bug Report
 
