@@ -3,6 +3,4 @@ Hola
 
 Mi primera contribución local para github
 
-are
-hola
-
+Corrección del comit anterior desde github
